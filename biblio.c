@@ -1,5 +1,7 @@
 # include "biblio.h"
 
+#include <stdio.h>
+
 void init (T_Bibliotheque *ptrB)
 {
 
